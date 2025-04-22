@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A.R pavan Kumar</h1>
+<h1 align="center">Hi 👋, I'm A.R Pavan Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src=linkedin.com/in/a-r-pavan-kumar-20aaa2228 /> </p>
